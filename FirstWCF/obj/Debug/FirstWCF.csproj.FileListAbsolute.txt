@@ -1,0 +1,5 @@
+C:\Riyaz\Git\FirstWCF\FirstWCF\bin\FirstWCF.dll
+C:\Riyaz\Git\FirstWCF\FirstWCF\bin\FirstWCF.pdb
+C:\Riyaz\Git\FirstWCF\FirstWCF\obj\Debug\FirstWCF.csprojResolveAssemblyReference.cache
+C:\Riyaz\Git\FirstWCF\FirstWCF\obj\Debug\FirstWCF.dll
+C:\Riyaz\Git\FirstWCF\FirstWCF\obj\Debug\FirstWCF.pdb
